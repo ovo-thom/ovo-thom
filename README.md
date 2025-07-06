@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World!!<br><br>Front-End Web Developer in training<br><br>👨‍💻 Passionate front-end web developer, I am currently seeking a professional opportunity where I can apply my skills in React, Next.js, and Tailwind CSS to contribute to modern and ambitious projects.<br><br>🔍 I place great emphasis on details because I believe they make all the difference in the success of a project.<br><br>🤓 Curious and passionate, I’m always eager to learn and expand my skills to take on new challenges and improve my work.
+Hello World!!<br><br>Front-End Web Developer<br><br>👨‍💻 Passionate front-end web developer, I am currently seeking a professional opportunity where I can apply my skills in React, Next.js, and Tailwind CSS to contribute to modern and ambitious projects.<br><br>🔍 I place great emphasis on details because I believe they make all the difference in the success of a project.<br><br>🤓 Curious and passionate, I’m always eager to learn and expand my skills to take on new challenges and improve my work.
 
 
 ## 🌐 Socials:
