@@ -12,7 +12,7 @@ Currently seeking a professional opportunity to contribute to modern, ambitious 
 ---
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-thonnard-a520b72b5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-thonnard-a520b72b5) [🌍 Portfolio](https://thomas-portfolio-dev.netlify.app/)
 
 ---
 
